@@ -1,6 +1,6 @@
 use std::fs;
 
-use image::{GenericImage, GenericImageView, Rgb};
+use image::Rgb;
 use palette::{FromColor, Hsv, Srgb};
 
 ///normalazing pixel's rgb values
